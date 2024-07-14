@@ -107,7 +107,7 @@ body {
 .startText {
   position: absolute;
   margin: 0;
-  top: 70%;
+  top: 50%;
   z-index: 1;
   left: 50%;
   transform: translate(-50%, -50%);
