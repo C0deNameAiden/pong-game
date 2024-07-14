@@ -24,6 +24,14 @@ body {
   transform: perspective(800px) rotateX(36deg) scaleX(0.64) scaleY(0.66);
 }
 
+.instruction {
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  background-color: rgba(3, 3, 3, 0.2);
+  border-radius: 4px;
+}
+
 .bg {
   position: absolute;
   height: 1050px;
